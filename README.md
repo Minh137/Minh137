@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
 <!--
 **Minh137/Minh137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
