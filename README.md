@@ -1,4 +1,5 @@
-## Hi there 👋
+# 🌟 Welcome to Minh137's Project! 🌟
+![Hero Banner](https://via.placeholder.com/1200x400.png?text=Your+Hero+Banner+Here)
 
 ## 🛠️ Skills  
 
