@@ -1,5 +1,5 @@
 # 🌟 Welcome to Minh137's Project! 🌟
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Minh137's Repo&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Minh137's%20Repo&animation=fadeIn)
 
 ## 🛠️ Skills  
 
