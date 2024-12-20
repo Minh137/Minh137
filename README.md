@@ -1,5 +1,5 @@
 # 🌟 Welcome to Minh137's Project! 🌟
-![Hero Banner](https://via.placeholder.com/1200x400.png?text=Your+Hero+Banner+Here)
+<img src="https://img.shields.io/badge/Minh137's repositorys-?style=flat-square&logo=repobanner&logoColor=yellow"/>
 
 ## 🛠️ Skills  
 
